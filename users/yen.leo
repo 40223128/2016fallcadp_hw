@@ -25,10 +25,10 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161013151511.1"><vh>三大主題教學</vh>
+<v t="leo.20161013151511.1" a="E"><vh>三大主題教學</vh>
 <v t="leo.20161013151511.2" a="E"><vh>主題教學</vh>
 <v t="leo.20161013151511.3"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
@@ -71,7 +71,7 @@
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161013193150.1" a="E"><vh>Windows 環境下可攜環境</vh>
+<v t="leo.20161013193150.1"><vh>Windows 環境下可攜環境</vh>
 <v t="leo.20161013193150.2" a="E"><vh>下載 miniconda 可攜環境</vh>
 <v t="leo.20161013193150.3"><vh>下載可攜程式環境</vh></v>
 </v>
@@ -92,7 +92,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -111,7 +111,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -161,7 +161,7 @@ print("hello")
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2016 Fall 電腦輔助設計實習課程
+2016FALL 電腦輔助設計實習課程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -240,7 +240,7 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
+<t tx="amd.20161004095719.2">## 40223128 2016fallcadp_hw
 
 ### 虎科大機械設計工程系
 
@@ -248,9 +248,6 @@ print("hello")
 Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
-
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
 [Vimeo 上課影片](https://vimeo.com/user24079973/videos)
 </t>
