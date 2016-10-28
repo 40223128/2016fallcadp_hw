@@ -28,6 +28,9 @@
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="yen.20161016024324.1" a="E"><vh>快捷鍵</vh>
+<v t="yen.20161016024324.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20161013151511.1" a="E"><vh>三大主題教學</vh>
 <v t="leo.20161013151511.2" a="E"><vh>主題教學</vh>
 <v t="leo.20161013151511.3"><vh>電腦輔助設計在教什麼?</vh></v>
@@ -51,7 +54,18 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="leo.20161013184628.1"><vh>電腦輔助設計課程內涵</vh>
+<v t="yen.20161016024451.1"><vh>CADP 課程倉儲</vh>
+<v t="yen.20161016024451.2" a="E"><vh>課程時段與規劃</vh>
+<v t="yen.20161016024451.3"><vh>規劃、Wiki 與網誌</vh></v>
+</v>
+<v t="yen.20161016024451.4" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="yen.20161016024451.5"><vh>下載可攜程式環境</vh></v>
+</v>
+<v t="yen.20161016024451.6" a="E"><vh>學員自評項目</vh>
+<v t="yen.20161016024451.7"><vh>下載可攜程式環境</vh></v>
+</v>
+</v>
+<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
 </v>
@@ -64,19 +78,34 @@
 <v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
 </v>
+<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
+<v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
+</v>
 <v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
+<v t="yen.20161016203728.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="yen.20161016204452.1" a="E"><vh>Delta Printer 組裝</vh>
+<v t="yen.20161016204452.2"><vh>機電資產品的設計考量</vh></v>
 </v>
 <v t="leo.20161013190024.1"><vh>網際自評系統</vh>
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161013193150.1"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161013193150.2" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="leo.20161013193150.3"><vh>下載可攜程式環境</vh></v>
+<v t="yen.20161016024407.1"><vh>協同力訓練</vh>
+<v t="yen.20161016024407.2" a="E"><vh>Github 帳號</vh>
+<v t="yen.20161016024407.3"><vh>Github 倉儲網頁</vh></v>
+</v>
+<v t="yen.20161016024407.4"><vh>倉儲子模組串連</vh>
+<v t="yen.20161016024407.5"><vh>學員作業網頁定版</vh></v>
+</v>
+<v t="yen.20161016024407.6"><vh>倉儲版本拉回請求</vh>
+<v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
 </v>
 </v>
-<v t="leo.20161013184753.1"><vh>各式內容引用範例</vh>
+<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -92,7 +121,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -108,15 +137,19 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
+<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
+<v t="yen.20161022120729.1"><vh>@button https server</vh></v>
+<v t="yen.20161022151728.1"><vh>產生 .key 與 .crt</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -161,7 +194,7 @@ print("hello")
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2016FALL 電腦輔助設計實習課程
+2016 Fall 電腦輔助設計實習課程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -240,16 +273,19 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">## 40223128 2016fallcadp_hw
+<t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40223128](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
+[40223128](blog/index.html)
 
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -670,10 +706,7 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161013193150.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20161013193150.2">&lt;section data-markdown&gt;
+<t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -682,13 +715,189 @@ make.start()
 
 						
 </t>
-<t tx="leo.20161013193150.3">## 下載 miniconda 可攜環境
+<t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
+
+&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+</t>
+<t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024324.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="yen.20161016024407.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="yen.20161016024407.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.3"># Github 倉儲網頁
+
+####建立個人 Github 網頁 (帳號.github.io)
+####建立個人課程作業網頁 (納入投影片與網誌架構)
+####組長建立分組的評量網頁 (納入投影片與網誌架構)
+</t>
+<t tx="yen.20161016024407.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.5"># 學員作業網頁定版
+
+###個人作業網頁內容可以隨時改版
+###分組評量網頁必須在指定時間前定版
+###Github 倉儲 gh-pages分支與子模組應用
+</t>
+<t tx="yen.20161016024407.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.7"># Github 倉儲拉回請求
+
+####分組倉儲 Collaborators 設定
+####分組倉儲版本 Pull Requests 練習
+####各組員實際操作影片錄製
+####操作影片加字幕以及影片檔相加
+</t>
+<t tx="yen.20161016024451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="yen.20161016024451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.3"># 電腦輔助設計實習課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcadp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcadp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcadp.html)
+
+</t>
+<t tx="yen.20161016024451.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.5">## 下載 miniconda 可攜環境
 
   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
   * start.bat 啟動, stop.bat 關閉
   * 建議存在隨身硬碟中使用
 
+
+</t>
+<t tx="yen.20161016024451.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.7">## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcadp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="yen.20161016203728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016203728.2">## OnShape 實習
+
+  * 請根據[Nutcracker手冊](http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)說明完成零件繪製
+  * 請完成 Nutcracker 零件組立
+  * 請完成與手冊格式類似的 pdf 導引教材 (How？)
+  * 請完成零件繪製教學影片(語音或字幕說明)並上傳到 Vimeo 與 Youtube
+  * 若採用 Solvespace, 可否完成上述相同零組件繪製與組立?
+  * 如何精確得知機構運動過程的約束位置?
+</t>
+<t tx="yen.20161016204452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016204452.2">## 機電資產品的設計考量
+
+  * 請收集與 Delta 3D printer 有關的資料
+  * 請設法利用 CAD 套件完成零組件繪製與模擬
+  * 上述模擬過程對於產品的開發有何用意?
+  * 請討論如何完成一台可以正常列印的 Delta Printer？
+
+</t>
+<t tx="yen.20161022120729.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 7443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("7443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
+<t tx="yen.20161022151728.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
 
 </t>
 </tnodes>
