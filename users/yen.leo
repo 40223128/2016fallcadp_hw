@@ -281,7 +281,7 @@ print("hello")
 Created by [40223128](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[40223128](blog/index.html)
+[40223128部落格](blog/index.html)
 
 [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
