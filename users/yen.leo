@@ -78,10 +78,10 @@
 <v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
+<v t="leo.20161027151655.1"><vh>Solvespace 四連桿模擬</vh>
 <v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
 </v>
-<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
+<v t="leo.20161013185845.1" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
 </v>
 <v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
@@ -670,7 +670,9 @@ make.start()
 <t tx="leo.20161013185845.2">## OnShape 實習
 
   * OnShape 零件繪製
+  
   * OnShape 零件組立
+  [組立](https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27)
   * Delta 3D Printer 機構模擬
   * 平面四連桿機構模擬與驗證
   * 平面多連桿機構模擬與驗證
