@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-08T10:00:00+08:00</updated><entry><title>Solvespace練習繪製</title><link href="./solvespacelian-xi-hui-zhi.html" rel="alternate"></link><published>2017-01-08T10:00:00+08:00</published><updated>2017-01-08T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-08:./solvespacelian-xi-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199267277"&gt;Solvespace練習繪製&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;pre class="brush: python"&gt;
+
+
+
+
+
+reveal.js 使用導引</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27"&gt;onshape組合件&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;
 &lt;p&gt;網誌 Tags&lt;/p&gt;
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>onshape組合件繪製</title><link href="./onshapezu-he-jian-hui-zhi.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./onshapezu-he-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199847648"&gt;onshape零件1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847804"&gt;onshape零件2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847909"&gt;onshape零件3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847966"&gt;onshape零件4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861625"&gt;onshape零件5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861655"&gt;onshape零件6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861737"&gt;onshape零件7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861770"&gt;onshape零件8&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>onshape組合件繪製</title><link href="./onshapezu-he-jian-hui-zhi.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./onshapezu-he-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199847648"&gt;onshape零件1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847804"&gt;onshape零件2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847909"&gt;onshape零件3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199847966"&gt;onshape零件4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861625"&gt;onshape零件5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861655"&gt;onshape零件6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861737"&gt;onshape零件7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199861770"&gt;onshape零件8&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>onshape組合件繪製</title><link href="./onshapezu-he-jian-hui-zhi.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./onshapezu-he-jian-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
