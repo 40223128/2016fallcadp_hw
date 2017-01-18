@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-08T10:00:00+08:00</updated><entry><title>Solvespace練習繪製</title><link href="./solvespacelian-xi-hui-zhi.html" rel="alternate"></link><published>2017-01-08T10:00:00+08:00</published><updated>2017-01-08T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-08:./solvespacelian-xi-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199267277"&gt;Solvespace練習繪製&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>onshape組合件繪製</title><link href="./onshapezu-he-jian-hui-zhi.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./onshapezu-he-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199847648"&gt;onshape零件1&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-18T10:00:00+08:00</updated><entry><title>onshape組合件繪製</title><link href="./onshapezu-he-jian-hui-zhi.html" rel="alternate"></link><published>2017-01-18T10:00:00+08:00</published><updated>2017-01-18T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-18:./onshapezu-he-jian-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199847648"&gt;onshape零件1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199847804"&gt;onshape零件2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199847909"&gt;onshape零件3&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199847966"&gt;onshape零件4&lt;/a&gt;&lt;/p&gt;
@@ -12,6 +9,24 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/199861770"&gt;onshape零件8&lt;/a&gt;&lt;/p&gt;
 
 
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>Solvespace多連桿繪製</title><link href="./solvespaceduo-lian-gan-hui-zhi.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-06:./solvespaceduo-lian-gan-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199262769"&gt;Solvespace多連桿繪製&lt;/a&gt;
-&lt;/p&gt;
+&lt;p&gt;心得:onshape其實跟一般的3D繪圖軟體大同小異，只要熟悉他的操作，基本上沒什麼問題，而這個作業我們採取小組分工的方式來進行，後來我再自行練習一遍拍影片&lt;/p&gt;
+&lt;p&gt;onshape是一個非常方便的網頁，讓我們可以不用安裝繪圖軟體就能在網路上繪製3D圖，也能透過他的功能，與其他人進行分享，或分工&lt;/p&gt;
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>期末總整理</title><link href="./qi-mo-zong-zheng-li.html" rel="alternate"></link><published>2017-01-18T10:00:00+08:00</published><updated>2017-01-18T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-18:./qi-mo-zong-zheng-li.html</id><summary type="html">&lt;p&gt;&lt;a href="https://40223128.github.io/2016fallcadp_hw/blog/solvespaceduo-lian-gan-hui-zhi.html"&gt;Solvespace多連桿繪製&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40223128.github.io/2016fallcadp_hw/blog/solvespacelian-xi-hui-zhi.html"&gt;Solvespace練習繪製&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40223128.github.io/2016fallcadp_hw/blog/onshapezu-he-jian-hui-zhi.html"&gt;onshape組合件繪製&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得:一開始在建立github的時候，滿認真學習如何提交推送，但我承認到後來開始繪圖的時候慢慢的跟不上，在接近期末考的時候開始去問同學要如何利用Solvespace跟onshape繪製圖形，後來慢慢的有補上繪圖的影片，一開始在於網誌的部分一直沒有辦法更新，也是一直到發現說要先在近端執行一次才能成功的推送，雖然期末可能做得不是很好，希望老師不要介意&lt;/p&gt;
+&lt;p&gt;因為之前拍的圖片，因為隨身碟壞掉而損壞，但是保證影片都是本人親手做的絕無抄襲&lt;/p&gt;
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>Solvespace多連桿繪製</title><link href="./solvespaceduo-lian-gan-hui-zhi.html" rel="alternate"></link><published>2017-01-18T10:00:00+08:00</published><updated>2017-01-18T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-18:./solvespaceduo-lian-gan-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199262769"&gt;Solvespace多連桿繪製&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;先將連桿繪製出來，再利用Solvespace的路徑功能，將多連桿的路徑描出來，可以再利用Solvespace的匯出數據檔，匯入EXCEL內畫出線狀圖&lt;/p&gt;
+&lt;p&gt;心得:一開始接觸Solvespace的時候，實在不知道他的功能該如何使用又是英文的，後來慢慢看著講義練習Solvespace的功能就越來越熟練了&lt;/p&gt;
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>Solvespace練習繪製</title><link href="./solvespacelian-xi-hui-zhi.html" rel="alternate"></link><published>2017-01-18T10:00:00+08:00</published><updated>2017-01-18T10:00:00+08:00</updated><author><name>40223128</name></author><id>tag:,2017-01-18:./solvespacelian-xi-hui-zhi.html</id><summary type="html">&lt;p&gt;&lt;a href="https://vimeo.com/199267277"&gt;Solvespace練習繪製&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;一開始先畫出L型的主體，在利用中間建立工作平面，畫出肋的部分，在進行
+切孔&lt;/p&gt;
+&lt;p&gt;心得:覺得比較困難的部分還是在於Solvespace的功能上的使用，尤其是找出要繪製的工作平面，但是熟練後就更加得心應手&lt;/p&gt;
 &lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
